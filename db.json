@@ -2,14 +2,11 @@
   "AB": {
     "A": {
       "U": "https://ak8888ii.com/",
-      "onoff": 1,
+      "onoff": 0,
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "TR",
         "BR",
-        "HK",
-        "PH",
         "KR"
       ],
       "Event": [
